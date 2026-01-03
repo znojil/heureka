@@ -1,0 +1,34 @@
+{
+	"name": "znojil/heureka",
+	"description": "📦 A simple and modern PHP library for communicating with the Heureka API.",
+	"keywords": ["znojil", "heureka", "api", "sdk", "client", "reviews", "overeno-zakazniky"],
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{"name": "Marek Znojil"}
+	],
+	"require": {
+		"php": "^8.2",
+		"znojil/http": "^1.0"
+	},
+	"require-dev": {
+		"mockery/mockery": "^1.6",
+		"nette/tester": "^2.5",
+		"phpstan/phpstan": "^2.1",
+		"phpstan/phpstan-mockery": "^2.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Znojil\\Heureka\\": "src/"
+		}
+	},
+	"autoload-dev": {
+		"psr-4": {
+			"Znojil\\Heureka\\Tests\\": "tests/"
+		}
+	},
+	"scripts": {
+		"phpstan": "vendor/bin/phpstan",
+		"tester": "vendor/bin/tester tests -s -C"
+	}
+}

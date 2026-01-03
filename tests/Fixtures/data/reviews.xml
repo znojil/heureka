@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reviews>
+	<review>
+		<rating_id>10</rating_id>
+		<name><![CDATA[Znojil Marek]]></name>
+		<source>regular</source>
+		<ordered>1764590400</ordered>
+		<unix_timestamp>1765195200</unix_timestamp>
+		<total_rating>4.5</total_rating>
+		<recommends>1</recommends>
+		<delivery_time>5</delivery_time>
+		<transport_quality>5</transport_quality>
+		<web_usability>5</web_usability>
+		<communication>5</communication>
+		<pros><![CDATA[First pros.
+Second pros.]]></pros>
+		<cons><![CDATA[First cons.
+Second cons.]]></cons>
+		<summary><![CDATA[Summary e-shop,
+
+everything is fine!]]></summary>
+		<reaction><![CDATA[Thanks!
+Regards..]]></reaction>
+		<order_id>202500010</order_id>
+	</review>
+	<review>
+		<rating_id>9</rating_id>
+		<source>regular</source>
+		<ordered>1764590401</ordered>
+		<unix_timestamp>1765195201</unix_timestamp>
+		<order_id>202500009</order_id>
+	</review>
+</reviews>

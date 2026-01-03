@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product>
+		<productno>1</productno>
+		<product_name><![CDATA[Product a]]></product_name>
+		<url><![CDATA[https://www.example.com/product/1-product-a]]></url>
+		<cena>99.99</cena>
+		<price>99.99</price>
+		<ean>0123456789123</ean>
+		<order_id>202500001</order_id>
+		<reviews>
+			<review>
+				<rating_id>10</rating_id>
+				<rating_id_type>product</rating_id_type>
+				<unix_timestamp>1766597400</unix_timestamp>
+				<name><![CDATA[Marek Znojil]]></name>
+				<rating>5</rating>
+				<pros><![CDATA[First pros.
+Second pros.]]></pros>
+				<cons><![CDATA[First cons.
+Second cons.]]></cons>
+				<recommends>1</recommends>
+				<summary><![CDATA[Summary product 'a',
+
+everything is fine!]]></summary>
+			</review>
+		</reviews>
+	</product>
+	<product>
+		<product_name><![CDATA[Product b]]></product_name>
+		<url><![CDATA[https://www.example.com/product/2-product-b]]></url>
+		<cena>69.99</cena>
+		<price>69.99</price>
+		<order_id>202500002</order_id>
+		<reviews>
+			<review>
+				<rating_id>20</rating_id>
+				<rating_id_type>product</rating_id_type>
+				<unix_timestamp>1766597401</unix_timestamp>
+			</review>
+		</reviews>
+	</product>
+</products>

@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Znojil\Heureka\Tests\Unit\Internal;
+namespace Znojil\Heureka\Tests\Cases\Internal;
 
 use Tester\Assert;
 use Znojil\Heureka\Internal\XmlExtractor;

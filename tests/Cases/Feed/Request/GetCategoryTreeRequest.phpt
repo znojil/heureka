@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Znojil\Heureka\Tests\Unit\Feed\Request;
+namespace Znojil\Heureka\Tests\Cases\Feed\Request;
 
 use Tester\Assert;
 use Znojil\Heureka\Feed\Request\GetCategoryTreeRequest;

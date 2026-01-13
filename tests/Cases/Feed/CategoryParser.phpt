@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Znojil\Heureka\Tests\Unit\Feed;
+namespace Znojil\Heureka\Tests\Cases\Feed;
 
 require __DIR__ . '/../../bootstrap.php';
 

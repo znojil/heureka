@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Znojil\Heureka\Tests\Unit\ShopCertification;
+namespace Znojil\Heureka\Tests\Cases\ShopCertification;
 
 use Tester\Assert;
 use Znojil\Heureka\ShopCertification;

@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Znojil\Heureka\Tests\Unit\Http;
+namespace Znojil\Heureka\Tests\Cases\Http;
 
 use Tester\Assert;
 

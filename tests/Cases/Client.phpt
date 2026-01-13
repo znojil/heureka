@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Znojil\Heureka\Tests\Unit;
+namespace Znojil\Heureka\Tests\Cases;
 
 use Psr\Http\Message\UriInterface;
 use Tester\Assert;
